@@ -1,4 +1,7 @@
-     <div id="odin-chatbot"></div>
+OdinAI (alpha release)<br>
+Professor Rosenblum<br>
+DEI-example-chat<br>
+<div id="odin-chatbot"></div>
       <script>
         window.project_id = "7be3121acba241d9b2a4bf";
         window.frame_type = "window";
