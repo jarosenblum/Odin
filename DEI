@@ -1,0 +1,11 @@
+     <div id="odin-chatbot"></div>
+      <script>
+        window.project_id = "7be3121acba241d9b2a4bf";
+        window.frame_type = "window";
+      </script>
+      <script
+        src="https://app.getodin.ai/loader.min.js"
+        project_id="7be3121acba241d9b2a4bf"
+        frame_type="window"
+        defer
+      ></script>
